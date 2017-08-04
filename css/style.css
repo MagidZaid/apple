@@ -1,0 +1,375 @@
+/*Navbar*/
+.navbar{
+background-color: black;
+border-radius: 0;    
+border: 0;    
+
+color: white;
+
+    
+}
+
+
+.navbar-defualt .navbar-nav > li > a{
+text-align: center;    
+color: white;   
+margin-left: 30px;    
+}
+
+
+.navbar-defualt .navbar-nav > li>  a:hover{
+    background-color: black;
+    color: grey;
+}
+
+
+/*HEADER*/
+
+
+
+
+/*CARASOL*/
+.carousel-inner{
+margin-top: -22px;
+height: 730px;    
+}
+
+
+
+
+/*INFO*/
+
+.info{
+margin-top: 30px;    
+}
+
+
+.info h4, .mag{
+    text-align: center;
+    
+}
+
+
+
+
+/*SERVICE*/
+
+.service{
+    margin-top: 20px;
+    background-color: #e7e7e7;
+}
+
+.service h6, p{
+    text-align: center;
+    text-align: justify;
+}
+
+/*NEXT PAGE IMAC*/
+
+/*SHOWCASE*/
+
+.showcase{
+    background-color: black;
+    color: white;
+    margin-top: -22px;
+}
+
+.showcase h1, h4{
+    text-align: center;
+}
+
+.showcase h1{
+margin-top: 40px;
+font-size: 50px;    
+}
+
+/*Imac2*/
+
+.imac {
+ margin-top: 60px;
+text-align: center;
+}
+
+.macbook{
+text-align: center;
+background-color: #e8e8e8; 
+    margin-top: 60px;
+}
+
+.mac h1{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.cmac{
+    text-align: center;
+  background-color: #e8e8e8;
+    margin-top: 60px
+}
+
+.cmac img{
+  margin-top: 40px;  
+}
+
+.imac #fa {
+margin-top: 70px;
+   
+}
+
+.imac  i{
+font-size: 40px;
+
+}
+
+.imac #fa, h3, .fa, i{
+text-align: center;
+}
+
+.imac .fa{
+font-size: 20px;    
+}
+
+.acc h1{
+text-align: center;    
+margin-top: 80px;    
+    
+}
+
+
+
+
+/*IPAD PAGE*/
+
+
+.ipad h1, h3{
+text-align: center;
+font-size: 50px;   
+}
+
+
+.ipad h1{
+    max-height: 50px;
+}
+
+
+/*PEN*/
+
+
+.pen{
+    
+margin-top: 100px;
+padding: 30px;    
+}
+
+.pen #pro{
+    
+    margin-top: 40px;
+    padding: 20px;
+}
+
+
+
+.fun {
+    text-align: center;
+    background-color: #fafafa;
+    margin-top: 80px;
+}
+
+.buy{
+margin-top: 80px;
+    
+}
+
+.acss{
+    background-color: #ededed;
+    margin-top: 80px;
+    text-align: center;
+}
+
+.acss h2{
+margin-top: 60px;    
+}
+
+/*IPONE PAGE*/
+
+.show{
+background-color: black;
+color: white;
+text-align: center;
+margin-top: -22px;    
+}
+
+.show h4{
+margin-top: 50px;    
+}
+
+
+
+
+.phone{
+    
+margin-top: 100px;
+background-color: #cd3242;
+     
+}
+
+
+
+
+
+
+.ph {
+    background-color: #f2f2f2;
+    margin-top: 80px;
+    
+}
+
+.clip{
+margin-top: 80px;
+text-align: center;
+padding: 20px;    
+}
+
+.clip .chill{
+    width: 90%;
+    height: 640px;
+}
+
+.step {
+margin-top: 40px; 
+background-color: white;
+}
+
+.step h1{
+    margin-top: 150px;
+    padding: 20px;
+}
+
+.step h1, #stp{
+text-align: center;
+}
+
+.comp {
+margin-top: 40px;
+text-align: center;
+}
+
+.goin{
+    margin-top: 80px;
+    text-align: center;
+    background-color: #f2f2f2;
+}
+
+.goin i, .fai{
+text-align: center;
+}
+
+/*WATCH PAGE*/
+
+.show2{
+text-align: center;
+background-color: #e7e7e7;
+margin-top: -20px;    
+}
+
+.show2 h1{
+margin-top: 60px;    
+}
+
+.nike{
+margin-top: 40px;    
+}
+
+.watch{
+margin-top: 80px;
+padding: 30px;
+
+}
+
+.ser{
+    margin-top: 20px;
+    text-align: center;
+   
+}
+
+.wcomp{
+text-align: center;
+margin-top: 70px;
+background-color: #f2f2f2;
+}
+
+.new{
+margin-top: 70px;
+text-align: center;
+background-color: #f3f3f5;
+}
+
+/*TV PAGE*/
+
+.show3{
+    text-align: center;
+    background-color: #e7e7e7;
+    margin-top: -21px;
+}
+
+.show3 img{
+margin-top: 50px;    
+}
+
+.tv{
+margin-top: 100px;
+text-align: center;
+
+}
+
+.tv .htv{
+margin-right: 180px;    
+}
+
+.contr {
+
+margin-top: 120px;
+
+}
+
+.contr h2{
+margin-top: 210px;    
+}
+
+.contr .h2, .h4{
+    text-align: justify;
+}
+
+.bell{
+margin-top: 80px;
+background-color: #e7e7e7;    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
